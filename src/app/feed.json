@@ -37,6 +37,27 @@
           "imagenPost": "../assets/images/feed/feed1.png",
           "avatarUsuario": "../assets/images/avatar.jpg",
           "descripcionPost": "<3  <3 <3 <3 "
+        },
+        {
+          "id": 5, 
+          "usuario": "corgimaya",
+          "imagenPost": "../assets/images/feed/feed1.png",
+          "avatarUsuario": "../assets/images/avatar.jpg",
+          "descripcionPost": "<3  <3 <3 <3 "
+        },
+        {
+          "id": 6, 
+          "usuario": "max",
+          "imagenPost": "../assets/images/feed/feed2.png",
+          "avatarUsuario": "../assets/images/avatar.jpg",
+          "descripcionPost": "<3  <3 <3 <3 "
+        },
+        {
+          "id": 7, 
+          "usuario": "oreo",
+          "imagenPost": "../assets/images/feed/feed4.png",
+          "avatarUsuario": "../assets/images/avatar.jpg",
+          "descripcionPost": "<3  <3 <3 <3 "
         }
       ]
 }
